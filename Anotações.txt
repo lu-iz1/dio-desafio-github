@@ -1,0 +1,13 @@
+# *Códigos do GIT*
+
+clonar repositório da web: git clone https://github.com/lu-iz1/dio-desafio-github.git
+
+entrar no diretório: cd dio-desafio-github/
+
+verificar status: git status
+
+adicionar as edições feitas no git: git add .
+
+comentar edição: git commit -m "..."
+
+publicar edições realizadas na web: git push origin main
